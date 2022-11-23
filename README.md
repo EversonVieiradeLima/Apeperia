@@ -23,13 +23,9 @@
 
 <div align="left">
   <a href="https://eversonvieiradelima.github.io/Apeperia/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/455/455590.png" width="52" height="40" alt="linktree logo"  />
+    <img src="https://cdn-icons-png.flaticon.com/512/455/455893.png" width="52" height="40" alt="linktree logo"  />
   </a>
 </div>
-
-###
-
-<p align="left">(Ícone ilustrativo)</p>
 
 ###
 
